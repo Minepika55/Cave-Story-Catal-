@@ -24,8 +24,3 @@ Addicionals:
 
 Creat a partir de la traducció en castellà feta per "Orden"
 
-Recomano jugar al joc amb el port a "Rust" per a millores de qualitat de vida, tot i que és experimental i pot tenir errors per tant sempre millor amb l'original: 
-
-El qual podeu trobar al següent enllaç: 
-
-https://github.com/doukutsu-rs/doukutsu-rs 
