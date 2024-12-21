@@ -6,6 +6,10 @@ Baixar la traducció amb el botó verd que posa "code" i fer clic a "Download ZI
 
 Extreure els arxius i substituir-los en una instal·lació base de la versió gratis/freeware de Cave Story
 
+El qual podeu trobar al següent enllaç: 
+
+https://www.cavestory.org/download/cave-story.php
+
 Si demana substituir fitxer marcar que si volem.
 
 Arrencar el joc amb "Doukutsu.exe"
@@ -21,5 +25,7 @@ Addicionals:
 Creat a partir de la traducció en castellà feta per "Orden"
 
 Recomano jugar al joc amb el port a "Rust" per a millores de qualitat de vida: 
+
+El qual podeu trobar al següent enllaç: 
 
 https://github.com/doukutsu-rs/doukutsu-rs 
