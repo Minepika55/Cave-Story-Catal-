@@ -12,7 +12,9 @@ Arrencar el joc amb "Doukutsu.exe"
 
 Errades: 
 
-Per limitacions del motor de moment no he pogut incorporar els símbols per accents ni al ç trencada, si coneixeu o sou algú capaç de fer-ho posar-se en contacte amb mi si us plau!
+Per limitacions del motor de moment no he pogut incorporar els símbols per accents ni al ç trencada,
+Els noms de les ubicacións tampoc els he pogut alterar.
+Si coneixeu o sou algú capaç de fer-ho posar-se en contacte amb mi si us plau!
 
 Addicionals: 
 
